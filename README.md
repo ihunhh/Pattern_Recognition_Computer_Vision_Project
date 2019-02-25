@@ -36,3 +36,16 @@
   * **apply grayscale**
   
     <img src="/PRHW/catEngC.png" height="150">
+    
+### **Seam Carving:**
+* ***Result***
+
+ * ***removeseam***
+ 
+  * **original image**
+  
+    <img src="/PRHW/cat.png" height="150">
+    
+  * **apply grayscale**
+  
+    <img src="/PRHW/catEngC.png" height="150">    
