@@ -1,6 +1,4 @@
-
-
-## Implement
+## Implement CV algorithm
 
 **Filter:**
 
