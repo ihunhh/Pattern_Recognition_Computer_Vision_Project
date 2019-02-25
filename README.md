@@ -43,13 +43,11 @@
 ### **Seam Carving:**
 
 * ***Result***
-
-  * ***removeseam***
   
-    * **original image**
+  * **original image**
   
-       <img src="/PRHW/cat.png" height="150">
+    <img src="/PRHW/cat.png" height="150">
     
-  * **apply grayscale**
+  * **removeSeam**
   
-    <img src="/PRHW/catEngC.png" height="150">    
+    <img src="/PRHW/catResized.png" height="150">    
