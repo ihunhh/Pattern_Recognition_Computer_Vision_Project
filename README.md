@@ -2,7 +2,7 @@
 
 * ***without any CV SDK and API***
 
-* ***All the CV algorithm implement by myself***
+* ***All of those CV algorithm implement by myself***
 
 ### ***[Source code]()***
 
