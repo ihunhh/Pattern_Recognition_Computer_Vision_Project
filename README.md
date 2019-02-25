@@ -7,22 +7,22 @@
 ### **Filter:**
 * ***Result***
 
-  * original image
+  * **original image**
   
     <img src="/PRHW/swan.png" height="150">
     
-  * apply filter
+  * **apply filter**
   
     <img src="/PRHW/swanFiltered.png" height="150">
   
 ### **Grayscale:**
 * ***Result***
 
-  * original image
+  * **original image**
   
     <img src="/PRHW/face.jpg" height="150">
     
-  * apply filter
+  * **apply grayscale**
   
     <img src="/PRHW/faceGray.png" height="150">
 
