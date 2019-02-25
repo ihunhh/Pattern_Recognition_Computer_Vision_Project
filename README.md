@@ -1,4 +1,4 @@
-## Implementation of CV algorithm
+## Implementation of CV algorithms
 
 **Filter:**
 
