@@ -26,3 +26,13 @@
   
     <img src="/PRHW/faceGray.png" height="150">
 
+### **Color image energy:**
+* ***Result***
+
+  * **original image**
+  
+    <img src="/PRHW/cat.jpg" height="150">
+    
+  * **apply grayscale**
+  
+    <img src="/PRHW/catEngC.png" height="150">
