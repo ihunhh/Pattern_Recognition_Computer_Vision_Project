@@ -44,10 +44,18 @@
 
 * ***Result***
   
-  * **original image**
+  * **original image 1**
   
     <img src="/PRHW/cat.png" height="150">
     
-  * **removeSeam**
+  * **Seam Carving 1**
   
-    <img src="/PRHW/catResized.png" height="150">    
+    <img src="/PRHW/catResized.png" height="150">   
+    
+  * **original image 2**
+  
+    <img src="/PRHW/face.png" height="150">
+    
+  * **Seam Carving 2**
+  
+    <img src="/PRHW/faceResized.png" height="150">
