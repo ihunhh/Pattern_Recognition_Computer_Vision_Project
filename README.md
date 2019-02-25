@@ -10,5 +10,10 @@
   * original image
   
     <img src="/PRHW/swan.png" height="150">
+    
+  * apply filter
+  
+    <img src="/PRHW/swan.png" height="150">
+  
   
 
