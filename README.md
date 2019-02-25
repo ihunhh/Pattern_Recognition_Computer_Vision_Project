@@ -1,8 +1,8 @@
 ## Implementation of CV algorithms
 
-### without any CV SDK and API
+* ***without any CV SDK and API***
 
-### All the CV algorithm implement by myself
+* ***All the CV algorithm implement by myself***
 
 ### ***[Source code]()***
 
