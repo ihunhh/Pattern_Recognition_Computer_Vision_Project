@@ -31,7 +31,7 @@
 
   * **original image**
   
-    <img src="/PRHW/cat.jpg" height="150">
+    <img src="/PRHW/cat.png" height="150">
     
   * **apply grayscale**
   
