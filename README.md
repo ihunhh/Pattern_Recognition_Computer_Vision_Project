@@ -54,7 +54,7 @@
     
   * **original image 2**
   
-    <img src="/PRHW/face.png" height="150">
+    <img src="/PRHW/face.jpg" height="150">
     
   * **Seam Carving 2**
   
