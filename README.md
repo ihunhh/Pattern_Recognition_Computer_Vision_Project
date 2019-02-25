@@ -41,7 +41,7 @@
 * ***Result***
 
  * ***removeseam***
- 
+  
   * **original image**
   
     <img src="/PRHW/cat.png" height="150">
