@@ -9,6 +9,6 @@
 
   * original image
   
-  ![original](/PRHW/swan.png)
+   <img src="/PRHW/swan.png" height="100">
   
 
