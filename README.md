@@ -13,7 +13,7 @@
     
   * apply filter
   
-    <img src="/PRHW/swan.png" height="150">
+    <img src="/PRHW/swanFiltered.png" height="150">
   
   
 
