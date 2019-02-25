@@ -15,5 +15,14 @@
   
     <img src="/PRHW/swanFiltered.png" height="150">
   
+### **Grayscale:**
+* ***Result***
+
+  * original image
   
+    <img src="/PRHW/face.jpg" height="150">
+    
+  * apply filter
+  
+    <img src="/PRHW/faceGray.png" height="150">
 
