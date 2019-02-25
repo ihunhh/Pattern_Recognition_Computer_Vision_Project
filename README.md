@@ -1,6 +1,6 @@
 # Pattern Recognition Computer Vision Project
 
-### Implement 
+### Implement
 
 #### Filter:
 
