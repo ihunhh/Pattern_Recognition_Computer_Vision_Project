@@ -2,7 +2,7 @@
 
 ## Implement
 
-### Filter:
+**Filter:**
 
 * ***[Source code]()***
 
