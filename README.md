@@ -44,7 +44,7 @@
     
 ### **Seam Carving:**
 
-#### Reducing both of **Width** and **height** 20 pixels
+* Reducing both of **Width** and **height** 20 pixels
 
 * ***Result***
   
