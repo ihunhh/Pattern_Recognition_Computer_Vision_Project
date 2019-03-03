@@ -44,6 +44,8 @@
     
 ### **Seam Carving:**
 
+#### **Width-20, height-20**
+
 * ***Result***
   
   * **original image 1**
