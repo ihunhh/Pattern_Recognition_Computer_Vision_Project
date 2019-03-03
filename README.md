@@ -44,7 +44,7 @@
     
 ### **Seam Carving:**
 
-* **Reducing** each of **sides** 20 pixels
+* **Reducing** each of **sides** **20** pixels
 
 * ***Result***
   
