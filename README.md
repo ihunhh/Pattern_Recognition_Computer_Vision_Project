@@ -1,6 +1,6 @@
 ## Implementation of CV algorithms
 
-* ***Without any CV SDK and API***
+* ***Without any CV API***
 
 * ***All of these CV algorithm implement by myself***
 
